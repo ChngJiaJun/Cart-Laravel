@@ -162,7 +162,7 @@
                 <ul class="navigation navigation-main" id="main-menu-navigation" data-menu="menu-navigation">
                     <li class=" nav-item"><a class="d-flex align-items-center" href="{{route('user.account.view')}}"><i data-feather="user"></i><span class="menu-title text-truncate" data-i18n="Chat">Account</span></a>
                     </li>
-                    <li class=" nav-item"><a class="d-flex align-items-center" href="{{route('home')}}"><i data-feather="home"></i><span class="menu-title text-truncate" data-i18n="Dashboards">Dashboards</span></a>
+                    <li class=" nav-item"><a class="d-flex align-items-center" href="{{route('home')}}"><i data-feather="home"></i><span class="menu-title text-truncate" data-i18n="Dashboards">Home</span></a>
                      
                     </li>
                     <li class=" navigation-header"><span data-i18n="Apps &amp; Pages">Pages</span><i data-feather="more-horizontal"></i>
